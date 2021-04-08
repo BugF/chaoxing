@@ -224,7 +224,7 @@ class AutoSign(object):
 			'activeId': activeId,
 			'address': '中国',
 			'uid': '',
-			'clientip': '0.0.0.0',
+			'clientip': '120.194.97.26',
 			'latitude': '-2',
 			'longitude': '-1',
 			'fid': '',
